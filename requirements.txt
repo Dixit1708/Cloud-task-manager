@@ -1,0 +1,34 @@
+# Cloud Task Manager - Requirements
+
+## Runtime
+Node.js 18 or later
+npm
+
+## Backend
+Express.js
+Mongoose
+dotenv
+CORS
+
+## Database
+MongoDB Atlas
+
+## Frontend
+HTML5
+CSS3
+JavaScript
+
+## Development
+Git
+GitHub
+
+## Installation
+Run:
+npm install
+
+## Start the application
+Run:
+npm start
+
+Application URL:
+http://localhost:3000
